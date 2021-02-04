@@ -1,0 +1,11 @@
+{
+  "name": "customprintdev",
+  "type": "widget",
+  "platform": "HTML",
+  "version": "2.18",
+  "wabVersion": "2.18",
+  "author": "Charles Letcher",
+  "description": "Simple test for custom widget deployment",
+  "copyright": "",
+  "license": "n/a"
+}
